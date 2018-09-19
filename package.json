@@ -1,0 +1,26 @@
+{
+  "name": "react-dianping-api",
+  "version": "1.0.0",
+  "description": "React-Dianping-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lengzhang/React-Dianping-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lengzhang/React-Dianping-API/issues"
+  },
+  "homepage": "https://github.com/lengzhang/React-Dianping-API#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0"
+  }
+}
